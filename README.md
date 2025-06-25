@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Mini E-commerce Project using Laravel**
 - 🌱 I’m currently learning **advanced PHP & Laravel techniques**
 - 💬 Ask me about **Laravel, PHP, MySQL, Authentication, API**
-- 📫 How to reach me: `your.email@example.com`
+- 📫 How to reach me: `mennaallahmentawy@gmail.com`
 - 📁 Portfolio coming soon...
 
 <h3 align="left">Languages and Tools:</h3>
